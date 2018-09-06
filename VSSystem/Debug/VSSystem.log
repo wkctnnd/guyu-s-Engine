@@ -1,0 +1,30 @@
+﻿生成启动时间为 2018/5/31 21:17:36。
+     1>项目“E:\VSEngine2-master\VSSystem\VSSystem.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I..\VSMath\ /I..\SDK\XML\ /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _USRDLL /D VSSYSTEM_EXPORTS /D _WINDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo".\Debug\\" /Fd".\Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt VSFile.cpp VSImage.cpp VSLog.cpp VSMemManager.cpp VSSynchronize.cpp VSSystem.cpp VSThread.cpp VSTimer.cpp
+         VSTimer.cpp
+         VSThread.cpp
+         VSSystem.cpp
+         VSSynchronize.cpp
+         VSMemManager.cpp
+         VSLog.cpp
+         VSImage.cpp
+         VSFile.cpp
+         正在生成代码...
+       Link:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"..\bin\VSSystem_d.dll" /INCREMENTAL /NOLOGO Winmm.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"..\bin\VSSystem_d.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"..\bin\VSSystem_d.lib" /MACHINE:X86 /SAFESEH /DLL .\Debug\VSFile.obj
+         .\Debug\VSImage.obj
+         .\Debug\VSLog.obj
+         .\Debug\VSMemManager.obj
+         .\Debug\VSSynchronize.obj
+         .\Debug\VSSystem.obj
+         .\Debug\VSThread.obj
+         .\Debug\VSTimer.obj
+     1>VSFile.obj : warning LNK4075: 忽略“/EDITANDCONTINUE”(由于“/SAFESEH”规范)
+            正在创建库 ..\bin\VSSystem_d.lib 和对象 ..\bin\VSSystem_d.exp
+         VSSystem.vcxproj -> E:\VSEngine2-master\VSSystem\..\bin\VSSystem_d.dll
+     1>已完成生成项目“E:\VSEngine2-master\VSSystem\VSSystem.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:06.97

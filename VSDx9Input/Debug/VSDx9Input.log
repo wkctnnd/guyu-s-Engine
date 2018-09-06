@@ -1,0 +1,17 @@
+﻿生成启动时间为 2018/9/6 16:06:56。
+     1>项目“E:\VSEngine2-master\VSDx9Input\VSDx9Input.vcxproj”在节点 4 上(Build 个目标)。
+     1>ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I..\VSSystem\ /I..\VSInput\ /I..\SDK\DX9\Include\ /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _USRDLL /D VSDX9INPUT_EXPORTS /D _WINDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo".\Debug\\" /Fd".\Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt VSEngineDXInput.cpp
+         VSEngineDXInput.cpp
+         e:\vsengine2-master\sdk\dx9\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+       Link:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"..\Bin\VSDx9Input_d.dll" /INCREMENTAL /NOLOGO ..\Bin\VSInput_d.lib ..\SDK\DX9\Lib\x86\dinput8.lib ..\SDK\DX9\Lib\x86\dxguid.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"..\Bin\VSDx9Input_d.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"..\Bin\VSDx9Input_d.lib" /MACHINE:X86 /SAFESEH /DLL .\Debug\VSEngineDXInput.obj
+         "E:\VSEngine2-master\Bin\VSInput_d.lib"
+     1>VSEngineDXInput.obj : warning LNK4075: 忽略“/EDITANDCONTINUE”(由于“/SAFESEH”规范)
+            正在创建库 ..\Bin\VSDx9Input_d.lib 和对象 ..\Bin\VSDx9Input_d.exp
+         VSDx9Input.vcxproj -> E:\VSEngine2-master\VSDx9Input\..\Bin\VSDx9Input_d.dll
+     1>已完成生成项目“E:\VSEngine2-master\VSDx9Input\VSDx9Input.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:03.35

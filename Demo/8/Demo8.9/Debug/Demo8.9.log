@@ -1,0 +1,16 @@
+﻿生成启动时间为 2018/9/6 16:07:29。
+     1>项目“E:\VSEngine2-master\Demo\8\Demo8.9\Demo8.9.vcxproj”在节点 4 上(Build 个目标)。
+     1>ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I..\..\..\VSApplication\ /I..\..\..\VSDx9Input\ /I..\..\..\VSInput\ /I..\..\..\VSSystem\ /I..\..\..\VSDataStruct\ /I..\..\..\VSMath\ /I..\..\..\VSGraphic\ /I..\..\..\VSDx9Renderer\ /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo".\Debug\\" /Fd".\Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Source.cpp TestClone.cpp
+         TestClone.cpp
+         Source.cpp
+         正在生成代码...
+       Link:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"..\..\..\Bin\Demo8.9_d.exe" /INCREMENTAL /NOLOGO ..\..\..\Bin\VSSystem_d.lib ..\..\..\Bin\VSDataStruct_d.lib ..\..\..\Bin\VSMath_d.lib ..\..\..\Bin\VSGraphic_d.lib ..\..\..\Bin\VSApplication_d.lib ..\..\..\Bin\VSInput_d.lib ..\..\..\Bin\VSDx9Input_d.lib ..\..\..\Bin\VSDx9Renderer_d.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"..\..\..\Bin\Demo8.9_d.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"..\..\..\Bin\Demo8.9_d.lib" /MACHINE:X86 .\Debug\Source.obj
+         .\Debug\TestClone.obj
+         Demo8.9.vcxproj -> E:\VSEngine2-master\Demo\8\Demo8.9\..\..\..\Bin\Demo8.9_d.exe
+     1>已完成生成项目“E:\VSEngine2-master\Demo\8\Demo8.9\Demo8.9.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:04.88

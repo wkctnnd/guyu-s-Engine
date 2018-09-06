@@ -1,0 +1,10 @@
+﻿生成启动时间为 2018/9/6 16:07:30。
+     1>项目“E:\VSEngine2-master\Demo\11\11.1\Demo11.1.vcxproj”在节点 5 上(Build 个目标)。
+     1>ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I..\..\..\VSApplication\ /I..\..\..\VSDx9Input\ /I..\..\..\VSInput\ /I..\..\..\VSSystem\ /I..\..\..\VSDataStruct\ /I..\..\..\VSMath\ /I..\..\..\VSGraphic\ /I..\..\..\VSDx9Renderer\ /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo".\Debug\\" /Fd".\Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Source.cpp
+         Source.cpp
+     1>已完成生成项目“E:\VSEngine2-master\Demo\11\11.1\Demo11.1.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:04.52

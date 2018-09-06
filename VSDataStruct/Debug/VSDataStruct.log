@@ -1,0 +1,34 @@
+﻿生成启动时间为 2018/5/31 21:20:17。
+     1>项目“E:\VSEngine2-master\VSDataStruct\VSDataStruct.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I..\VSMath\ /I..\VSSystem\ /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _USRDLL /D VSDATESTRUCT_EXPORTS /D _WINDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo".\Debug\\" /Fd".\Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt VSArray.cpp VSBitArray.cpp VSDelegate.cpp VSGraph.cpp VSList.cpp VSMap.cpp VSMatch.cpp VSQueue.cpp VSString.cpp
+         VSString.cpp
+         VSQueue.cpp
+         VSMatch.cpp
+         VSMap.cpp
+         VSList.cpp
+         VSGraph.cpp
+         VSDelegate.cpp
+         VSBitArray.cpp
+         VSArray.cpp
+         正在生成代码...
+       Link:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"..\Bin\VSDataStruct_d.dll" /INCREMENTAL /NOLOGO ..\Bin\VSSystem_d.lib ..\Bin\VSMath_d.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"..\Bin\VSDataStruct_d.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"..\Bin\VSDataStruct_d.lib" /MACHINE:X86 /SAFESEH /DLL .\Debug\VSArray.obj
+         .\Debug\VSBitArray.obj
+         .\Debug\VSDelegate.obj
+         .\Debug\VSGraph.obj
+         .\Debug\VSList.obj
+         .\Debug\VSMap.obj
+         .\Debug\VSMatch.obj
+         .\Debug\VSQueue.obj
+         .\Debug\VSString.obj
+         "E:\VSEngine2-master\Bin\VSMath_d.lib"
+         "E:\VSEngine2-master\bin\VSSystem_d.lib"
+     1>VSArray.obj : warning LNK4075: 忽略“/EDITANDCONTINUE”(由于“/SAFESEH”规范)
+            正在创建库 ..\Bin\VSDataStruct_d.lib 和对象 ..\Bin\VSDataStruct_d.exp
+         VSDataStruct.vcxproj -> E:\VSEngine2-master\VSDataStruct\..\Bin\VSDataStruct_d.dll
+     1>已完成生成项目“E:\VSEngine2-master\VSDataStruct\VSDataStruct.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:05.44
